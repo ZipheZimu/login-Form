@@ -1,0 +1,1 @@
+The fourth week in the FnB Code academy a mini project that entailed creating a login form .Learing Javascript skiils was the focal point .This project allows you to learn how to implement  varaibles, function and conditionals in your code so as to make it simpler and more understandable.
